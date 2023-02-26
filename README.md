@@ -49,3 +49,10 @@ If you're interested in blockchain technology and want to get involved in a dyna
 #####  Implementing sharding and partitioning techniques
 #####  Layer 2 scaling solutions such as sidechains and state channels
 #####  Impact of scalability on blockchain adoption
+
+## Contributor wanted 
+Attention Blockchain Experts! We invite you to join our passionate team of contributors and help us make a difference in the blockchain community. By sharing your expertise and knowledge, you can help us create a platform that provides the latest and most relevant information to those seeking to understand and participate in the blockchain space. As a contributor, you will have the opportunity to collaborate with like-minded individuals and make a positive impact on the community. Your participation in this project will not only help us achieve our goals, but also provide you with a valuable opportunity to expand your own skills and network. Join us today and be a part of something truly special!
+
+
+## Sponsor 
+We are thrilled to invite you to be a part of our open-source project! Our dedicated contributors work tirelessly to create a valuable and sustainable platform that benefits the community. As a sponsor, you would be contributing to the success of the project and helping us cover the costs of its development and maintenance. We truly believe that your sponsorship would be a significant investment in the project's future and we would be grateful for your support. Thank you for considering partnering with us.
