@@ -1,4 +1,4 @@
-# BlockChain-Hacks
+# BlockChain-Hacks🔗
 blockchain-Hacks repository is a comprehensive collection of resources related to blockchain technology. It aims to educate and inform developers, investors, and enthusiasts about the technology and its potential use cases. The repository typically includes various materials such as whitepapers, technical documentation, code snippets, tutorials mor
 
 
